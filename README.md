@@ -1,8 +1,8 @@
 <h1>Hi, I'm Rami!  
   <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Analyst</a> , <a href="https://github.com/joshmadakor1">Programmer</a><br/>
----<br/>
+  <br/>
 Brief Introduction:<br/>
-- I'm a free learner and self-educator currently in my final year of university. I’m passionate about the world of technology—especially cybersecurity, networking, and system defense. This portfolio serves as a collection of my projects, hands-on labs, certifications, and skills I've built through continuous learning and real-world applications.
+I'm a free learner, self-educator, and researcher, currently in my final year of university. I’m passionate about the world of technology—especially cybersecurity, networking, and system defense. This portfolio serves as a collection of my projects, hands-on labs, certifications, and skills I've built through continuous learning and real-world applications.
   
 <h2>👨‍💻 Software Development Projects:</h2>
 
