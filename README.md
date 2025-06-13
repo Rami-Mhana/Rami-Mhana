@@ -30,7 +30,7 @@ I'm a free learner, self-educator, and researcher, currently in my final year of
 
 | Title                                                                          | Platform         | Date        | Credential Link |
 | ------------------------------------------------------------------------------ | ---------------- | ----------- | --------------- |
-| Google Cybersecurity Professional Certificate                                  | Coursera         | In Progress |                 |
+| Google Cybersecurity Professional Certificate(./google-cyber-course)                                  | Coursera         | In Progress |                 |
 | IBM Cybersecurity Essentials                                                   | Coursera         | 2024        |                 |
 | IBM Malware Analysis and Introduction to Assembly Language                     | Coursera         | In Progress |                 |
 | Meta Back-End Developer                                                        | Coursera         |             |                 |
