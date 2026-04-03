@@ -20,7 +20,7 @@ I'm in my final year of university, building toward a career at the intersection
 
 | Lab | Skills Demonstrated |
 |-----|-------------------|
-| [Linux File Permissions Audit](https://github.com/Rami-Mhana/google-cybersecurity-cert/4_Linux_Database/linux-file-permissions-lab) | `chmod` · least privilege · Linux file system security |
+| [linux-file-permissions-lab](https://github.com/Rami-Mhana/google-cybersecurity-cert/4_Linux_Database/linux-file-permissions-lab) | `chmod` · least privilege · Linux file system security |
 | [Incident Response — NIST CSF](https://github.com/Rami-Mhana/google-cybersecurity-cert/tree/main/3_Networking/labs_activity/Incident-Response-NIST-CSF) | NIST CSF framework · incident documentation · containment strategy |
 | [Analyze Network Attacks](https://github.com/Rami-Mhana/google-cybersecurity-cert/tree/main/3_Networking/labs_activity/Analyze-Network-Attacks) | `tcpdump` output analysis · attack pattern identification · SYN flood |
 | [Apply OS Hardening Techniques](https://github.com/Rami-Mhana/google-cybersecurity-cert/tree/main/3_Networking/labs_activity/Apply-OS-hardening-techniques) | OS hardening · brute force mitigation · security baseline |
