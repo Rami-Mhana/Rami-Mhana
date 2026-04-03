@@ -10,8 +10,8 @@ I'm in my final year of university, building toward a career at the intersection
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Solo Leveling & Personal Development](https://github.com/Rami-Mhana/solo-leveling) | Gamified learning management system — XP tracking, skill trees, daily reports, graph view | Python · Flask · SQLAlchemy · Alembic |
-| [Flask Marketing App](https://github.com/Rami-Mhana/flask-marketing-app) | Full-stack marketing platform with user auth, form handling, and database integration | Python · Flask · SQLAlchemy |
+| [Solo Leveling & Personal Development](https://github.com/Rami-Mhana/Solo-Leveling-Personal-Development) | Gamified learning management system — XP tracking, skill trees, daily reports, graph view | Python · Flask · SQLAlchemy · Alembic |
+| [Marketing App](https://github.com/Rami-Mhana/Marketing-App) | Full-stack marketing platform with user auth, form handling, and database integration | Python · Flask · SQLAlchemy |
 | [Arabic Quiz Game](https://github.com/Rami-Mhana/quiz-game) | Browser-based interactive quiz game deployed on GitHub Pages | JavaScript · HTML · CSS |
 
 ---
@@ -20,10 +20,7 @@ I'm in my final year of university, building toward a career at the intersection
 
 | Lab | Skills Demonstrated |
 |-----|-------------------|
-| [linux-file-permissions-lab](https://github.com/Rami-Mhana/google-cybersecurity-cert/4_Linux_Database/linux-file-permissions-lab) | `chmod` · least privilege · Linux file system security |
-| [Incident Response — NIST CSF](https://github.com/Rami-Mhana/google-cybersecurity-cert/tree/main/3_Networking/labs_activity/Incident-Response-NIST-CSF) | NIST CSF framework · incident documentation · containment strategy |
-| [Analyze Network Attacks](https://github.com/Rami-Mhana/google-cybersecurity-cert/tree/main/3_Networking/labs_activity/Analyze-Network-Attacks) | `tcpdump` output analysis · attack pattern identification · SYN flood |
-| [Apply OS Hardening Techniques](https://github.com/Rami-Mhana/google-cybersecurity-cert/tree/main/3_Networking/labs_activity/Apply-OS-hardening-techniques) | OS hardening · brute force mitigation · security baseline |
+| [Linux File Permissions Audit](https://github.com/Rami-Mhana/google-cybersecurity-cert/tree/main/4_Linux_Database/linux-file-permissions-lab) | `chmod` · least privilege · Linux file system security |
 
 ---
 
