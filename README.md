@@ -1,69 +1,59 @@
-<h1>Hi, I'm Rami!  
-  <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Analyst</a> , <a href="https://github.com/joshmadakor1">Programmer</a><br/>
-  <br/>
-Brief Introduction:<br/>
-I'm a free learner, self-educator, and researcher, currently in my final year of university. I’m passionate about the world of technology—especially cybersecurity, networking, and system defense. This portfolio serves as a collection of my projects, hands-on labs, certifications, and skills I've built through continuous learning and real-world applications.
-  
-<h2>👨‍💻 Software Development Projects:</h2>
+# Hi, I'm Rami Mhana 👋
 
+**Computer Engineering Student · Cybersecurity & Backend Engineering**
 
-
-<h2>📺 Cybersecurity Skills & Tools Usage in Projects</h2>
-
-| **Domain**                   | **Skill**                    | **Tools**                       | **Usage in Projects**                |
-| ---------------------------- | ---------------------------- | ------------------------------- | ------------------------------------ |
-| **Audit & Compliance**       | Internal Auditing            | Excel, NIST SP 800-53 checklist | Conducting Internal Audits (Apr ’25) |
-|                              | Security Controls Assessment | CIS-CAT, SCAP Workbench         | Conducting Internal Audits           |
-| **Detection & Response**     | SIEM / Event Monitoring      | Splunk, IBM QRadar              | SIEM Lab (Course Module 3)           |
-|                              | Incident Response Playbooks  | TheHive, GRR, Cortex XSOAR      | IR Playbook Exercise                 |
-| **Vulnerability Management** | Vulnerability Scanning       | Nessus, OpenVAS                 | Red Teaming LLM Applications.VM Lab (Course Module 2)            |
-|                              | Web App Security Testing     | OWASP ZAP, Burp Suite           | OWASP Labs                           |
-| **Networking Security**      | Traffic Analysis             | Wireshark, tcpdump              | Packet Capture Assignment            |
-|                              | Network Simulation           | Cisco Packet Tracer             | Network Segmentation Exercise        |
-| **Scripting & Automation**   | Powershell & Bash Scripting  | PowerShell, Bash                | Automated Audit Checklist Script     |
-| **Threat Modeling & Risk**   | Threat Modeling              | Microsoft Threat Modeling Tool  | Threat Modeling Lab                  |
-|                              | Risk Assessment Frameworks   | FAIR, ISO 31000 templates       | Risk Assessment Worksheet            |
+I'm in my final year of university, building toward a career at the intersection of secure system design and backend engineering. I learn by doing — every project and lab here represents real hands-on work, not just coursework.
 
 ---
 
-###  Certificates
+## 🚀 Projects
 
-| Title                                                                          | Platform         | Date        | Credential Link |
-| ------------------------------------------------------------------------------ | ---------------- | ----------- | --------------- |
-| [Google Cybersecurity Professional Certificate](./google-cybersecurity-courses)                                  | Coursera         | In Progress |                 |
-| IBM Cybersecurity Essentials                                                   | Coursera         | 2024        |                 |
-| IBM Malware Analysis and Introduction to Assembly Language                     | Coursera         | In Progress |                 |
-| Meta Back-End Developer                                                        | Coursera         |             |                 |
-| CompTIA Network+ Labs (Self-study)                                             | Professor Messer | Ongoing     | N/A             |
-| CompTIA A+ (Self-study)                                                        | Professor Messer | 2023        | N/A             |
-| Google Prompting Essentials                                                    | Coursera         | 2025        |                 |
-| IBM Solving Problems with Creative and Critical Thinking                       | Coursera         | 2025        |                 |
-| TryHackMe Free Roadmap                                                         | TryHackMe        | In Progress |                 |
-| Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera         | 2025        |                 |
-| IBM People and Soft Skills for Professional and Personal Success               | Coursera         | In Progress |                 |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Solo Leveling & Personal Development](https://github.com/Rami-Mhana/solo-leveling) | Gamified learning management system — XP tracking, skill trees, daily reports, graph view | Python · Flask · SQLAlchemy · Alembic |
+| [Flask Marketing App](https://github.com/Rami-Mhana/flask-marketing-app) | Full-stack marketing platform with user auth, form handling, and database integration | Python · Flask · SQLAlchemy |
+| [Arabic Quiz Game](https://github.com/Rami-Mhana/quiz-game) | Browser-based interactive quiz game deployed on GitHub Pages | JavaScript · HTML · CSS |
 
+---
 
+## 🛡️ Cybersecurity Labs & Activity
 
-<h2> 🤳 Connect with me:</h2>
+| Lab | Skills Demonstrated |
+|-----|-------------------|
+| [Linux File Permissions Audit](https://github.com/Rami-Mhana/google-cybersecurity-cert/4_Linux_Database/linux-file-permissions-lab) | `chmod` · least privilege · Linux file system security |
+| [Incident Response — NIST CSF](https://github.com/Rami-Mhana/google-cybersecurity-cert/tree/main/3_Networking/labs_activity/Incident-Response-NIST-CSF) | NIST CSF framework · incident documentation · containment strategy |
+| [Analyze Network Attacks](https://github.com/Rami-Mhana/google-cybersecurity-cert/tree/main/3_Networking/labs_activity/Analyze-Network-Attacks) | `tcpdump` output analysis · attack pattern identification · SYN flood |
+| [Apply OS Hardening Techniques](https://github.com/Rami-Mhana/google-cybersecurity-cert/tree/main/3_Networking/labs_activity/Apply-OS-hardening-techniques) | OS hardening · brute force mitigation · security baseline |
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+---
 
+## 🧰 Skills
 
+**Cybersecurity**
+`Linux` `Bash` `chmod / file permissions` `tcpdump` `Wireshark` `NIST CSF` `Incident Response` `Network traffic analysis` `OS hardening`
 
+**Backend Engineering**
+`Python` `Flask` `REST APIs` `SQLAlchemy` `Alembic` `Database design` `Authentication`
 
-[linkedin]: https://linkedin.com/in/rami-mhana
+**Tools & Workflow**
+`Git` `GitHub` `Kali Linux` `VirtualBox` `SQL` `PowerShell`
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📜 Certifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Certificate | Platform | Status |
+|-------------|----------|--------|
+| [Google Cybersecurity Professional Certificate](https://github.com/Rami-Mhana/google-cybersecurity-cert) | Coursera | 🔄 In Progress (Course 4/8) |
+| IBM Cybersecurity Essentials | Coursera | ✅ 2024 |
+| IBM Malware Analysis & Introduction to Assembly Language | Coursera | 🔄 In Progress |
+| CompTIA A+ (Self-study) | Professor Messer | ✅ 2023 |
+| Google Prompting Essentials | Coursera | ✅ 2025 |
+| Learning How to Learn | Coursera | ✅ 2025 |
+
+---
+
+## 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rami%20Mhana-0077B5?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL_HERE)
+[![GitHub](https://img.shields.io/badge/GitHub-Rami--Mhana-181717?style=flat&logo=github)](https://github.com/Rami-Mhana)
