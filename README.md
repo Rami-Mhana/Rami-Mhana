@@ -52,5 +52,5 @@ I'm in my final year of university, building toward a career at the intersection
 
 ## 🤝 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rami%20Mhana-0077B5?style=flat&logo=linkedin)](www.linkedin.com/in/rami-mhana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rami%20Mhana-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/rami-mhana)
 [![GitHub](https://img.shields.io/badge/GitHub-Rami--Mhana-181717?style=flat&logo=github)](https://github.com/Rami-Mhana)
