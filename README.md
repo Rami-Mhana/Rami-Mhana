@@ -1,4 +1,4 @@
-# Hi, I'm Rami Mhana 👋
+# Hi, I'm Rami Mhana 
 
 **Computer Engineering Student · Cybersecurity & Backend Engineering**
 
